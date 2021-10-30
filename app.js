@@ -34,4 +34,5 @@ submitBtn.addEventListener('click', submitHandler);
 
 function showOutput(msg){
     outputBox.innerHTML = msg;
+    
 }

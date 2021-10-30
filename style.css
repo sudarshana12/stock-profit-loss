@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Montserrat:wght@600&family=Zen+Antique+Soft&display=swap');
 body{
     text-align: center;
+    background-color: #f4f7f5;
+    color : #565264;
+    font-family: 'Montserrat', sans-serif;
 }
 label{
     display: block;
